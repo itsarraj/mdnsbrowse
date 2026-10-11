@@ -5,6 +5,12 @@ Browses mDNS/Bonjour services on the local network — a real
 query (RFC 6762) over a UDP socket, rather than shelling out to
 another tool.
 
+## Installation
+
+```sh
+cargo install --path .
+```
+
 ## Usage
 
 ```bash
